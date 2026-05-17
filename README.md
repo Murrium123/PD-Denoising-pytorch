@@ -147,7 +147,7 @@ bash run_test_on_full_images.sh
 * We provide the self-collected beijing dataset for evaluation.
 
 ### Embeded PD idea to Existing Denoisers
-PD methods can be embedded into other deep learning based AWGN-trained denoiser, or other traditional denoising methds. It will further improve the performance of them. The codes (pytorch and matlab) will be released soon.
+PD methods can be embedded into other deep learning based AWGN-trained denoiser, or other traditional denoising methods. It will further improve the performance of them. The codes (pytorch and matlab) will be released soon.
 
 
 ## Acknowledgments
